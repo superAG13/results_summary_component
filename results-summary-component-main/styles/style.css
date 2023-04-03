@@ -24,7 +24,8 @@
     box-sizing: border-box;
 }
 body{
-    background:hsl(0, 100%, 97%)
+    background:hsl(0, 100%, 97%);
+    height: 100vh;
 }
 .box{
     display: flex;
